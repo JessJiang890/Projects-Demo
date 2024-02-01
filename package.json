@@ -1,0 +1,12 @@
+{
+  "name": "tutorial-practices",
+  "version": "1.0.0",
+  "description": "This repo is used to record exercises for HTML/Javascript/CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
